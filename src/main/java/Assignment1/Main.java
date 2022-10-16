@@ -1,8 +1,5 @@
 
-package Assignment_1;
-import Assignment_1.*;
-
-import java.util.Arrays;
+package Assignment1;
 
 public class Main {
 
